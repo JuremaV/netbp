@@ -60,7 +60,7 @@ public class Randomsent {
                     + verb[rand.nextInt(verb.length)] + " "
                     + preposition[rand.nextInt(preposition.length)] + " "
                     + article[rand.nextInt(article.length)] + " "
-                    + noun[rand.nextInt(noun.length)];
+                    + noun[rand.nextInt(noun.length)]+ ".";
 
             // Output generated sentence to screen:
             System.out.println(sentence);

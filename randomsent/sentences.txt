@@ -3,3 +3,13 @@ One car walked from any dog
 A town ran to one town
 Some dog ran over some town
 A town ran from one dog
+One boy skipped from a boy
+A car drove from any girl
+One dog drove to any dog
+Any town skipped over some girl
+One boy ran under any boy
+Any car drove from the dog.
+One town ran to some dog.
+Any car jumped under some car.
+One town ran under some girl.
+The dog jumped on a boy.
